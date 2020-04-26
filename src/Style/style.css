@@ -1,0 +1,28 @@
+.input {
+	width:40%;
+	margin:20px auto;
+	padding:40px;
+	border:solid 1px #e51;
+	text-align: center;
+	box-shadow: 2px 3px #ccc;
+}
+
+input {
+	margin:auto;
+	padding:20px;
+	text-align:center;
+	font-family: georgia;
+	border-radius: 10px;
+	border:solid 1px black;
+	box-shadow: 2px 3px #ccc;
+}
+
+.output {
+	width:70%;
+	margin:20px auto;
+	text-align: center;
+	border-bottom:solid 1px #e51;
+	box-shadow: 2px 3px #ccc;
+	font-family: georgia;
+	font-size:30px;
+}
